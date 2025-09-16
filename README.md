@@ -15,4 +15,10 @@
 # Boot- und Datensticks
 
 - [PowerShell zur Initialisierung und Sicherung von Datensticks](https://github.com/TGM-HIT/bootstick-tools) von SABM
-- 
+
+# GitHub Teams
+
+Die Anzahl an [sichtbaren Teams](https://github.com/orgs/TGM-HIT/teams?query=+visibility%3Avisible) ist recht überschaubar, darin findet man z.B. Repositories einiger Fachbereiche.
+
+- [Softwareentwicklung](https://github.com/orgs/TGM-HIT/teams/softwareentwicklung/repositories)
+- [Systemtechnik](https://github.com/orgs/TGM-HIT/teams/systemtechnik/repositories)
