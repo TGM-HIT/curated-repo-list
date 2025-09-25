@@ -1,7 +1,11 @@
 # Sammlung nützlicher Repositories für LK, JV und Admins
 
 - [Student Class Photo PDF Generator](https://github.com/dominikhoebert/photos_list_pdf_generator) von HOED
+- [Student Photos Anki Generator](https://github.com/dominikhoebert/anki_faces) von HOED
 - [KI Moodle Fragen Generator](https://github.com/dominikhoebert/ki-moodle-fragen) von HOED
+- [Einfache TUI Email Bulk App](https://github.com/dominikhoebert/TUI_Exchange_Bulk_Mail) von HOED
+- [Moodle Sync Kurs Bewertungen](https://github.com/dominikhoebert/Moodle_Sync_C2C) von HOED
+- [Clientless Screensharing](https://github.com/dominikhoebert/docker-projects/tree/master/guacamole) von HOED
 - [Sokrates Stammblätter](https://github.com/TGM-HIT/sokrates-stammblaetter) von POIM
 - [Dokumentationsvorlagen für Protokolle, DAs, ...](https://github.com/TGM-HIT/templates) von BORM, KOZC
 
